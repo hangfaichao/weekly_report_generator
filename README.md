@@ -6,7 +6,7 @@ Filename will be the date of this sunday and the content contains what I do this
 
 ## Configuration
 
-1. Copy the .sh file to the directionary that you want to store your weekly report.
+1. Copy the .sh file to the folder that you want to store your weekly report.
 
 2. Assign the .sh file with operation authority.
 
